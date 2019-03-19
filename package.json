@@ -1,11 +1,11 @@
 {
-  "name": "highoutput-react-eslint-config",
+  "name": "eslint-config-react-highoutput",
   "version": "0.0.1",
   "description": "Eslint and prettier config plugin for react applciations.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noahjohn9259/highoutput-react-eslint-config.git"
+    "url": "git+https://github.com/noahjohn9259/eslint-config-react-highoutput.git"
   },
   "keywords": [
     "javascript",
@@ -15,7 +15,7 @@
     "config",
     "prettier"
   ],
-  "author": "Noah U. <noah@highoutput.io>",
+  "author": "Noah John Ucab <noah@highoutput.io>",
   "license": "MIT",
   "peerDependencies": {
     "babel-eslint": "^9.0.0",
