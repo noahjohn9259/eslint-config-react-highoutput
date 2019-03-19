@@ -18,6 +18,7 @@
   "author": "Noah John Ucab <noah@highoutput.io>",
   "license": "MIT",
   "peerDependencies": {
+    "eslint": ">= 5",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-prettier": "^3.4.0",
     "eslint-plugin-import": "^2.14.0",
